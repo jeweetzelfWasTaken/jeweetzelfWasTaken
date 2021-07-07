@@ -4,4 +4,4 @@
 - 📫 How to reach me: jeweetzelf#1911 on Discord.
 
 
-[My GitHub stats](https://github-readme-stats.vercel.app/api?username=jeweetzelfWasTaken)]
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jeweetzelfWasTaken)]](https://celendi.me/discord)
